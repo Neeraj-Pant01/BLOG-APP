@@ -1,0 +1,7 @@
+.post{
+    flex: 9;
+    /* border: 2px solid blue; */
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px;
+}
